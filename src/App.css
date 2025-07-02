@@ -1,0 +1,21 @@
+/* src/App.css */
+.ant-layout {
+  background: #f0f2f5;
+}
+
+.ant-layout-header {
+  padding: 0 24px;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
+  z-index: 1;
+}
+
+.ant-layout-sider {
+  box-shadow: 2px 0 8px 0 rgba(29, 35, 41, 0.05);
+}
+
+.ant-layout-content {
+  padding: 24px;
+  min-height: 280px;
+  overflow: auto;
+}

@@ -1,0 +1,22 @@
+/* src/pages/LoginPage.css */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f0f2f5;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.login-card {
+  width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.login-tip {
+  text-align: center;
+  color: #666;
+  font-size: 12px;
+  margin-top: 10px;
+}
